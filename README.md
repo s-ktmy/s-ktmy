@@ -1,4 +1,11 @@
-### Hi there 👋
+## About ME
+- Name : Shoma KANNO
+- Age : 22
+
+---
+
+[![s-ktmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ktmy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=s-ktmy&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **s-ktmy/s-ktmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
